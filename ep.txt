@@ -1,0 +1,2 @@
+id, scheme, url, port, path, key, enable, at
+1, https, api.vpnzila.com, 443, /, null, true, 202619100540
